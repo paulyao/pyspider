@@ -7,10 +7,10 @@ class SQL():
     #���ݿ��ʼ��
     def __init__(self):
         #���ݿ����������Ϣ
-        hosts    = '172.16.0.228'  
-        username = 'notice'
-        password = 'noticepwd'
-        database = 'notice'
+        hosts    = '127.0.0.1'  
+        username = ''
+        password = ''
+        database = ''
         charsets = 'utf8'
         port=3318
 
